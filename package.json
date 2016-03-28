@@ -1,0 +1,24 @@
+{
+  "name": "totp-util",
+  "keywords": [
+    "2fa",
+    "totp",
+    "qrcode",
+    "console"
+  ],
+  "version": "0.0.0",
+  "description": "Totp QRCodes, in the terminal",
+  "licenses": [
+    {
+      "type": "Apache 2.0"
+    }
+  ],
+  "bin": {
+    "totp-util": "./bin/totp-util.js"
+  },
+  "dependencies": {
+    "base32.js": "^0.1.0",
+    "crypto": "0.0.3",
+    "qrcode-terminal": ">= 0.10.0"
+  }
+}
