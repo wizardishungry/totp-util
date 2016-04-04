@@ -1,6 +1,6 @@
 # totp-util 
 
-Generate TOTP 2-Factor Authentication secrets and QR codes for Google Authenticator on the command-line.
+Generate TOTP 2-Factor Authentication secrets and QR codes for Google Authenticator on the command-line. (It looks nicer in a real terminal!)
 
 ```
 $ totp-util ~jellob/.totp-key "Holiday Inn" jellob@travel.kh
