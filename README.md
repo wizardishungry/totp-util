@@ -52,6 +52,9 @@ otpauth://totp/Holiday%20Inn:jellob@travel.kh?secret=NYG4KQIYJ7KOJQ7C&issuer=Hol
 npm install -g https://github.com/WIZARDISHUNGRY/totp-util
 ```
 
+## Server setup
+* [OpenBSD/OpenSSH](https://github.com/WIZARDISHUNGRY/totp-util/wiki/OpenBSD-Guide)
+
 ## Usage
 ```
 $ totp-util --help
